@@ -1,0 +1,61 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.dark {
+  background: #111;
+  color: white;
+  padding: 1em;
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
+ul {
+  list-style-type: none;
+}
+
+button {
+  margin-bottom: 4px;
+}
+#add {
+  margin-left: 0.5em;
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+}
+#home {
+  text-decoration: none;
+  color: white;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  margin-right: 0.5em;
+}
+#stats {
+  text-decoration: none;
+  color: white;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  margin-right: 0.5em;
+}
+#st {
+  text-decoration: none;
+  color: black;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  margin-right: 0.5em;
+}
+#input {
+  margin-top: 0.5em;
+  border-radius: 4px;
+}
+#stats:hover,
+#home:hover {
+  background-color: aqua;
+  width: 2.7em;
+  height: 1em;
+  border: 2px solid aqua;
+  border-radius: 4px;
+}
