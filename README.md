@@ -1,0 +1,1 @@
+📌 Task Tracker Application A simple and responsive Task Tracker application built using React. This app helps users manage their daily tasks efficiently with features like adding tasks, marking them as completed, deleting tasks, and viewing task statistics. It also includes a dark mode option and data persistence using localStorage.
